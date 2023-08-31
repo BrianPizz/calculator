@@ -1,2 +1,2 @@
 # calculator
-JavaScript tutorial calculator
+
